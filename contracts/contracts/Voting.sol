@@ -50,7 +50,7 @@ contract Voting {
     }
 
     function castVote()  public {
-        
+        // TODO : Need to implement
     }
 
     function finishVoting() public {
